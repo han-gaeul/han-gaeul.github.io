@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on My New Hugo Site</title>
+    <title>blog on hangaeul blog</title>
     <link>https://han-gaeul.github.io/tags/blog/</link>
-    <description>Recent content in blog on My New Hugo Site</description>
+    <description>Recent content in blog on hangaeul blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
     <managingEditor>hangaeul.dev@gmail.com (hangaeul)</managingEditor>
